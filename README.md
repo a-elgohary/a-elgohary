@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abdullah El-Gohary, a data analyst with a keen interest in data science and currently studying about machine learning. I'm eager to collaborate on exciting data projects and am always open to exploring new opportunities. I'm available for professional connections and discussions regarding data projects.
+I'm Abdullah El-Gohary, a data analyst with a keen interest in data science and currently studying machine learning. I'm eager to collaborate on exciting data projects and am always open to exploring new opportunities. I'm available for professional connections and discussions regarding data projects.
 
 
 ## 🌐 Socials:
