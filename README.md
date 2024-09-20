@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Abdullah El-Gohary, a data analyst with a keen interest in data science and currently studying machine learning. I'm eager to collaborate on exciting data projects and am always open to exploring new opportunities. I'm available for professional connections and discussions regarding data projects.
+I'm Abdullah El-Gohary, a data-driven analyst with a strong accounting foundation. I specialize in using Figma and Power BI to translate complex data into clear, actionable insights that help businesses make informed decisions. I'm dedicated to crafting dashboards that are accurate, intuitive, and user-friendly, ensuring that stakeholders can easily access and understand the information they need.
+
+With proven experience in SQL, Python, and Power BI, I help organizations unlock the full potential of their data.
+
+Let's connect to explore how I can contribute to your next project! 🚀
 
 
 ## 🌐 Socials:
