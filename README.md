@@ -1,6 +1,6 @@
 # 👋Welcome:
 Hey, I'm Abdullah,
-Here I share Power BI visuals, Colab experiments, and star way too many repos 💫.
+Here I share Power BI visuals and some Colab experiments.
 
 
 # 🌐 Socials:
